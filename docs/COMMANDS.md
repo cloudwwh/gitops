@@ -1,3 +1,5 @@
+![wwh logo](https://cloudwwh.com/wp-content/uploads/2019/10/cropped-logo-3.png)
+
 Using Flux, synchronize a Kubernetes Cluster with Kubernetes Manifests stored in a GitHub Repo. The Development Organization needs to push releases of their application up to Docker Hub so they can be deployed by Flux. Set up a repository with the YAML required to use GitHub Actions Workflow to build the container, tag it, and push it to Docker Hub.
 Also, use Flux to promote workloads from Development to Production environments.
 
