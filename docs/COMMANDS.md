@@ -6,7 +6,7 @@ Also, use Flux to promote workloads from Development to Production environments.
 Prerequisites:
 
 Create github account https://github.com (cloudwwh)
-Create docker hub account https://hub.dokcer.com (cloudwwh)
+Create docker hub account https://hub.docker.com (cloudwwh)
 
 1. Create a empty repository in docker hub (https://hub.docker.com/r/cloudwwh/gitops)
 
